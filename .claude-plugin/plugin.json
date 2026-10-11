@@ -1,0 +1,12 @@
+{
+  "name": "dlf-marketing-skills",
+  "description": "Marketing skills for AI agents, organized around the 8 chokepoints of growth, for service businesses, coaches, agencies, local businesses and health practices. 63 skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dr. Lead Flow"
+  },
+  "homepage": "https://github.com/drleadflow/marketing-skills",
+  "repository": "https://github.com/drleadflow/marketing-skills",
+  "license": "MIT",
+  "skills": "./skills"
+}
