@@ -1,6 +1,6 @@
 ---
 name: offer-builder
-description: "When the user wants to create, fix or package an offer people say yes to without a discount: what's included, the name, the promise, the guarantee, the terms. Also use when they say 'build my offer', 'my offer isn't converting', 'people say it's too expensive', 'grand slam offer', 'irresistible offer', 'value stack', 'bonuses', 'guarantee', 'package my service', 'people price shop me', or 'what should my front-end offer be'. Produces one offer sheet that every page, ad and script copies. For tiers and price points across several offers, see offer-ladder-pricing. For the one-page version for sales calls, see one-page-offer."
+description: "When the user wants to create, fix or package an offer people say yes to without a discount: what's included, the name, the promise, the guarantee, the terms. Also use when they say 'build my offer', 'my offer isn't converting', 'people say it's too expensive', 'irresistible offer', 'value stack', 'bonuses', 'guarantee', 'package my service', 'people price shop me', or 'what should my front-end offer be'. Produces one offer sheet that every page, ad and script copies. For tiers and price points across several offers, see offer-ladder-pricing. For the one-page version for sales calls, see one-page-offer."
 metadata:
   version: 1.0.0
   chokepoint: offer
@@ -11,7 +11,7 @@ metadata:
 
 You'll finish with an **Offer Sheet**: one approved version of the offer with its name, a one-sentence promise, who it's for and not for, everything included with what each piece does for the buyer, the price and the margin math behind it, a guarantee you can keep, real scarcity if any, the written terms, and a capacity check. It's the single source every ad, page, setter script and invoice copies, so the price and terms never drift.
 
-A strong offer makes the buyer feel it's more valuable than the money, without a discount doing the work. That comes from four levers: how much they want the result, how sure they are they'll get it, how fast, and how little effort it takes them. The four levers are Alex Hormozi's value equation from *$100M Offers*, where a stacked offer built this way is called a "grand slam offer".
+A strong offer makes the buyer feel it's worth more than the money, without a discount doing the work. It gets there by answering the buyer's own questions before anyone on your team has to: what do I get, what does it cost in total, what happens when I show up, and what happens if I don't buy anything else. When those answers are clear and every piece of the offer removes a worry the buyer actually has, people stop price shopping you.
 
 ## Before you start
 
@@ -35,20 +35,20 @@ without <the thing they most want to avoid>.
 - **Result**: what they get, in their words. Describe what they receive and what you do, not a guaranteed outcome.
 - **Without**: the effort, risk or past bad experience they fear ("without learning ads", "without a surprise bill").
 
-### 2. Score the four levers
+### 2. Answer the four buyer questions
 
-The levers come from Alex Hormozi's value equation (*$100M Offers*): value rises with the dream outcome and the buyer's confidence, and falls with time delay and effort.
+Buyers decide on four questions, usually without asking them out loud. Score the current offer 1 to 10 on how clearly it answers each one, with one line of evidence from your page, ads or a real conversation:
 
-Score the current offer 1 to 10 on each, with one line of evidence:
-
-| Lever | Question | Raise it by |
+| Buyer question | A clear answer says | Fix it with |
 |---|---|---|
-| Dream result | How badly do they want what this gets them? | Name the result in their words; tie it to the after identity |
-| Confidence | How sure are they it will work for them? | Proof from the ledger, a visible method, a guarantee you can keep |
-| Speed | How soon do they feel the first win? | A quick win in the first 7 days; milestones they can see |
-| Effort | How much do they have to do or give up? | Do more of the work, templates, fewer decisions, done with them |
+| What do I get? | Exactly what they receive and what you do, in plain words | Name each piece; say what they leave with (a plan, a result you control, a written summary) |
+| What does it cost, all in? | The total, when it's paid, and anything not included | One total price, payment timing, exclusions written next to the price |
+| What happens when I show up? | Who they meet, how long it takes, what's decided there | Describe the visit or kickoff step by step; name the person |
+| What if I don't buy anything else? | The first step is worth paying for on its own | Say plainly what they keep and that there's no obligation |
 
-Fix the lowest lever first. Most offers are weakest on speed or effort, not on the dream.
+Then list the worries your best client says out loud when they don't buy (section 3 of business-context, or "What do people say when they don't buy?"). Every item in the stack must remove one of those worries. Fix the lowest-scoring question first.
+
+**The explain-back test.** Explain the offer to a teammate without showing the draft. Have them ask the four questions. Then ask them to explain it back. If their version drifts (they think the price buys more than it does, or miss what happens next), fix the offer, not the teammate. An offer is ready when two different people can explain it accurately without you repairing it.
 
 ### 3. Name the first step
 
@@ -56,15 +56,15 @@ The buyer books or buys something with a name, not "a consultation" or "a call".
 
 ### 4. Build the stack
 
-List everything included. For each item, say which lever it moves and what it costs you.
+List everything included. For each item, say which buyer worry it removes and what it costs you.
 
-| Slot | Item | Lever it moves | Cost to deliver | Value basis |
+| Slot | Item | Worry it removes | Cost to deliver | Value basis |
 |---|---|---|---|---|
-| Core | The main thing they buy | Dream result | | Your list price |
-| Accelerator | Gets the first win faster | Speed | | Your list price, or "not sold separately" |
-| Tool | Template, checklist, script, software | Effort | | |
-| Access | Calls, messages, community, reviews | Confidence | | |
-| Keep | Something they keep that isn't money off | Confidence | | |
+| Core | The main thing they buy | "Will this get me what I came for?" | | Your list price |
+| Accelerator | Gets the first win sooner | "How long until I see anything?" | | Your list price, or "not sold separately" |
+| Tool | Template, checklist, script, software | "I don't have time to do this myself" | | |
+| Access | Calls, messages, community, reviews | "What if I get stuck?" | | |
+| Keep | Something they keep that isn't money off | "What if it isn't for me?" | | |
 
 Rules for the stack:
 
@@ -149,7 +149,7 @@ Proof used: P-...
 | # | Check | Pass when |
 |---|---|---|
 | 1 | Promise | One sentence, specific who, result in their words, a real "without" |
-| 2 | Levers | All four scored; the weakest has at least 2 improvements in the stack |
+| 2 | Buyer questions | All four scored with evidence; the lowest has at least 2 fixes; the explain-back test passed with two people |
 | 3 | First step | Named, worth paying for alone, says what it may conclude |
 | 4 | Stack | Every item says what it does; no credits counted as value; at least one non-discount keep |
 | 5 | Value basis | Every stated value is a published price or "not sold separately" |

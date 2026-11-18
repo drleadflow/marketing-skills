@@ -64,7 +64,9 @@ Use the skeleton below. Write for someone doing it the first time. Use active vo
 - Logged in: [where completion gets recorded]
 ```
 
-## Template: delegation brief (10-80-10)
+## Template: delegation brief (show, try, correct)
+
+Hand work over the way it actually sticks: show the task once and explain why you make each decision, have the person explain it back in their own words, watch them do it while you're there, give one specific correction, and have them repeat that part. Hand over more only after you've seen them do it right more than once. Record what they now own, when they must ask for help, and who their backup is.
 
 ```markdown
 # Delegation brief: [Task]
@@ -76,9 +78,12 @@ Use the skeleton below. Write for someone doing it the first time. Use active vo
 - Examples of good output:
 - Decision rights (what they decide alone / what needs sign-off):
 - Done looks like (measurable):
-- Checkpoints: 40% on [date], 80% on [date]
+- Practice run: shown on [date], explained back on [date], first observed try on [date]
+- Checkpoints: first review on [date], second review on [date]
+- They own alone / ask first / not yet:
+- Backup person:
 
-## Final review (filled in at 90%+)
+## Final review (before handing over more)
 - Checked against "done looks like": [y/n, notes]
 - Feedback given:
 - Sign-off date:
@@ -90,14 +95,14 @@ Use the skeleton below. Write for someone doing it the first time. Use active vo
 - [ ] Every decision point has both branches resolved, no dead ends
 - [ ] At least one quality check sits after the highest-risk step
 - [ ] A person with zero context could follow it and get the expected outcome
-- [ ] (Delegation brief) Objective is an outcome, not a task description; "done" is measurable
+- [ ] (Delegation brief) Objective is an outcome, not a task description; "done" is measurable; the person explained it back and was watched doing it at least once
 
 ## Rules
 
 - Write for the person with the least context, not the most.
 - Never skip the decision points to save space; an SOP that only covers the happy path isn't one.
 - State your cleanup assumptions back to the person who gave you the messy process.
-- A delegation brief replaces micromanagement, not accountability; the final-10% review still happens.
+- A delegation brief replaces micromanagement, not accountability; the final review still happens, and being present for an explanation never counts as being able to do the task.
 
 ## Related skills
 
