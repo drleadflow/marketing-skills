@@ -1,19 +1,17 @@
 # Notice
 
-This repo uses ideas and structure from the following sources. Structure and ideas are credited here; no text is copied verbatim.
+The skills, methods and templates in this repo are original work by Dr. Lead Flow. Where a skill teaches a method,
+it is our own, drawn from the books *Build Your Predictable Patient Pipeline* and *Turn Your Consultations Into
+High-Revenue Visits* and from running campaigns for clinics:
 
-## coreyhaines31/marketingskills (MIT)
+- `offer-builder`: the four buyer questions and the explain-back test (Book 1, chapter 3).
+- `sop-generator`: the show, try, correct handoff (Book 2, chapter 7).
 
-The repo-level structure (`skills/<name>/SKILL.md` plus `references/`), the three plugin manifests (`.claude-plugin/plugin.json`, `.claude-plugin/marketplace.json`, `.codex-plugin/plugin.json`), and the shared `.agents/` context-file pattern (a project-level file every skill reads before it does anything) are modeled on coreyhaines31/marketingskills, used under the MIT license. No skill body text is copied from that repo.
+The folder layout (`skills/<name>/SKILL.md` plus `references/`) and the plugin manifests follow the standard agent
+skill and plugin formats.
 
-## Alex Hormozi, $100M Offers and $100M Leads
+## Adding to this repo
 
-The value equation (dream outcome, perceived likelihood, time delay, effort and sacrifice) and the "grand slam offer" idea, named in `offer-builder`, come from Alex Hormozi's published work. The method is restated in this repo's own words, not quoted.
-
-## Dan Martell, Buy Back Your Time
-
-The "10-80-10" delegation rule used in `sop-generator` (you do the first 10%, they do the middle 80%, you review the last 10%) comes from Dan Martell's published work. The method is restated in this repo's own words, not quoted.
-
-## Adding a credit
-
-If a skill you're writing or editing uses a named framework, method or structure from someone else's published work, name the source inline in that skill's `SKILL.md` (a short parenthetical is enough) and add a line here if it isn't already listed. Never copy another author's text; restate the idea in this repo's own plain words.
+Write every skill in our own words from our own methods and results. Do not copy, adapt or name another author's
+framework, method or text. If you need a method a skill doesn't have yet, build it from our books, our campaigns or
+the owner's own data, and name that source here.

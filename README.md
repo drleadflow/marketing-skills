@@ -266,7 +266,6 @@ See `AGENTS.md` for the full contract.
 
 ## Credit
 
-Structure inspired by coreyhaines31/marketingskills (MIT), including the shared `.agents/` context-file pattern. See `NOTICE.md` for the full credit list.
 
 ## Want this built with you?
 
