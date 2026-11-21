@@ -6,13 +6,13 @@
   },
   "metadata": {
     "description": "Marketing skills for AI agents, organized around the 8 chokepoints of growth, for service businesses, coaches, agencies, local businesses and health practices.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "repository": "https://github.com/drleadflow/marketing-skills"
   },
   "plugins": [
     {
       "name": "dlf-marketing-skills",
-      "description": "63 marketing skills for service businesses, coaches, agencies, local businesses and health practices: offer design, content, ad research and launch, lead capture, appointment follow up, closing, fulfillment, retention, referrals, and running the whole system on a weekly cadence.",
+      "description": "65 marketing skills for service businesses, coaches, agencies, local businesses and health practices: offer design, content, ad research and launch, lead capture, appointment follow up, closing, fulfillment, retention, referrals, and running the whole system on a weekly cadence.",
       "source": "./"
     }
   ]

@@ -147,6 +147,20 @@ From there, go to the chokepoint the audit named and pick the skill that matches
   afterward, see ad-account-audit's method, applied to Google Ads's own metrics. |
 | `hook-writer` | When the user wants an opening line for a post, video, carousel, headline, or subject line, or wants an existing opener critiqued. |
 | `local-seo-gbp` | When the user wants to set up or improve their Google Business Profile, rank higher in the local map pack, or build local landing pages for a service area. |
+| `meta-launcher` | When the user wants an agent to build a Facebook or Instagram ad campaign directly in their own
+  Meta ad account through the Marketing API: campaign, ad sets, creatives and ads, all paused, then
+  switched on only after they approve. Also use when they say "launch my Meta ads," "build the
+  campaign in Ads Manager for me," "set up a Facebook ad test," "push these ads live," or "meta
+  launcher." Works for any business; health practices get a compliance briefing first. For the
+  launch plan and pre-flight method this executes, see ad-launch. For reading results afterward,
+  see meta-report. |
+| `meta-report` | When the user wants a performance report on their Facebook and Instagram ads pulled straight
+  from their own Meta ad account: what is working, what is wasting money, and the exact changes to
+  make, each tied to an ad ID and a dollar amount. Also use when they say "how are my ads doing,"
+  "weekly Meta report," "ad performance report," "where is my ad money going," or "meta report."
+  Works for any business; health practices get a privacy-safe version. For deciding and applying
+  scale, hold, refresh or kill moves, see ad-account-audit. For building the campaign, see
+  meta-launcher. |
 | `newsletter` | When the user wants a full email newsletter issue written: subject line, body, and one CTA. |
 | `outlier-research` | When the user wants to find proven content formats to copy the structure of, analyze a competitor's or their own top-performing posts, or answer 'what's working right now'. |
 | `seo-article` | When the user wants a full blog article written to rank in search and read as human, not AI-generated. |
@@ -254,6 +268,10 @@ From there, go to the chokepoint the audit named and pick the skill that matches
   out. For the booking mechanics this feeds into, see consult-show-rate. |
 
 <!-- SKILLS:END -->
+
+## Running Meta ads with an agent
+
+`meta-launcher` and `meta-report` here cover building and reading a Meta campaign. The full kit, 13 skills from connecting the ad account (Pipeboard or the direct API) through tracking, audiences, creative, policy checks, split tests and the weekly optimize loop, lives in its own repo: [drleadflow/meta-ads-skills](https://github.com/drleadflow/meta-ads-skills).
 
 ## Rules every skill follows
 
