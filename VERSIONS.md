@@ -42,6 +42,8 @@ this file.
 | `marketing-scoreboard` | operate | core | 1.0.0 |
 | `membership-design` | retention | core | 1.0.0 |
 | `messaging-compliance` | foundation | core | 1.0.0 |
+| `meta-launcher` | attention | core | 1.0.0 |
+| `meta-report` | attention | core | 1.0.0 |
 | `morning-brief` | operate | core | 1.0.0 |
 | `newsletter` | attention | core | 1.0.0 |
 | `nurture-cadence` | retention | core | 1.0.0 |

@@ -41,6 +41,8 @@ Chokepoints run in funnel order: Foundation, Offer, Attention, Leads, Appointmen
 | google-ads | attention | core | Research, build and launch a Google Ads or Local Services Ads campaign, paused until a human approves. |
 | hook-writer | attention | core | Write or critique the opening line for a post, video, carousel, headline or subject line. |
 | local-seo-gbp | attention | core | Set up and improve a Google Business Profile and local search presence for a business that serves a local area. |
+| meta-launcher | attention | core | Build a Facebook and Instagram ad campaign in the owner's own Meta account through the API, all paused, with a compliance briefing for health and regulated offers. |
+| meta-report | attention | core | Pull a read-only performance report from the owner's Meta ad account, ranked on the real conversion, with ID-level changes to make. |
 | newsletter | attention | core | Write a full email newsletter issue: subject line, body, and one call to action. |
 | outlier-research | attention | core | Find proven content formats to study the structure of, by analyzing top-performing posts from a competitor or the business itself. |
 | seo-article | attention | core | Write a full blog article built to rank in search and read as human, not AI-generated. |
